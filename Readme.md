@@ -1,1 +1,1 @@
-readme rucsane
+GIT Exercise 1
